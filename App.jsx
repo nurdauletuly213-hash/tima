@@ -10,10 +10,10 @@ function App() {
   return (
      <div> 
 
-      <p style={{ color: 'red', width: '300px', height: '300px', background: 'blue' }}>Hello</p>
-      <p style={{ color: 'green', width: '300px', height: '300px', background: 'black' }}>Hello</p>
-      <p style={{ color: 'purple', width: '300px', height: '300px', background: 'gray' }}>Hello</p>
-      <p style={{ color: 'pink', width: '300px', height: '300px', background: 'darkgray' }}>Hello</p>
+      <p style={{ color: 'red', width: '300px', height: '300px', background: 'blue' }}>Hello Abok</p>
+      <p style={{ color: 'green', width: '300px', height: '300px', background: 'black' }}>Hello Tima</p>
+      <p style={{ color: 'purple', width: '300px', height: '300px', background: 'gray' }}>Hello Kemo</p>
+      <p style={{ color: 'pink', width: '300px', height: '300px', background: 'darkgray' }}>Hello Didon</p>
     
     
      </div>
